@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:94:"http://localhost/real-estate/wp-content/uploads/2022/11/271-1b166929329136481_Xh-1024x1024.jpg";s:10:"write_time";i:1669378301;s:10:"expired_in";i:2592000;s:12:"expired_time";i:1671970301;}
